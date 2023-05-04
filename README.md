@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Raja-Junaid
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me by Teacher
+# Hi there, I'm Raja Junaid 👋
+I'm a frontend developer with expertise in HTML, CSS, TailwindCSS, SASS, JavaScript, Git, and GitHub. I am passionate about creating clean and modern user interfaces and enjoy working with the latest web technologies.
 
-<!---
-Raja-Junaid/Raja-Junaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🌱 I’m currently learning Advance JavaScript
+🔭 I’m currently working on a project using TailwindCSS and JavaScript
+💬 Ask me about web development, frontend design, or anything related to tech!
+📫 How to reach me: rajajunaidpdk@gmail.com
+😄 Pronouns: He/Him
+
+## My Skills
+* HTML
+* CSS
+* TailwindCSS
+* SASS
+* JavaScript
+* Git
+* GitHub
