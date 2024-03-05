@@ -1,5 +1,5 @@
 # Hi there, I'm Raja Junaid 👋
-I'm a front-end developer with expertise in HTML, CSS, TailwindCSS, SASS, JavaScript, Git, and GitHub. I am passionate about creating clean and modern user interfaces and enjoy working with the latest web technologies.
+I'm a front-end developer with expertise in React JS, Next.js, TailwindCSS, SASS, JavaScript, Git, and GitHub. I am passionate about creating clean and modern user interfaces and enjoy working with the latest web technologies.
 
 ## About Me
 🌱 I’m currently learning React and Next.js <br> 
@@ -9,8 +9,8 @@ I'm a front-end developer with expertise in HTML, CSS, TailwindCSS, SASS, JavaSc
 😄 Pronouns: He/Him
 
 ## My Skills
-* HTML
-* CSS
+* React JS
+* Next.js
 * TailwindCSS
 * SASS
 * JavaScript
